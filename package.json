@@ -1,0 +1,16 @@
+{
+  "name": "markerless-ar-tag-generator",
+  "version": "1.0.0",
+  "description": "Ein Tool zur einfachen Erstellung und Verwaltung von markerlosen Augmented-Reality-Anwendungen.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "keywords": ["AR", "Augmented Reality", "markerless"],
+  "author": "Dein Name",
+  "license": "MIT"
+}
