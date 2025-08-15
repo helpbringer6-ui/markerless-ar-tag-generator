@@ -1,8 +1,8 @@
-# Ignoriere node_modules für Abhängigkeiten
+# Ignore node_modules for dependencies
 node_modules/
 
-# Ignoriere den Build-Ordner
+# Ignore the build folder
 .dist/
 
-# Ignoriere Umgebungsvariablen
+# Ignore environment variables
 .env
